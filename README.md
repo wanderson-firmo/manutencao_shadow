@@ -13,12 +13,13 @@ O projeto **Manutenção Shadow 600** é uma aplicação web desenvolvida para a
 
 ---
 👩‍💻 Autor
-Wanderson Firmo
-Acadêmico de Análise e Desenvolvimento de Sistemas
+> Wanderson Firmo
+> Acadêmico de Análise e Desenvolvimento de Sistemas
 
 📄 Licença
-Este projeto é de uso acadêmico e não possui fins lucrativos. Todos os direitos de uso da música pertencem aos seus respectivos autores.
+> Este projeto é de uso acadêmico e não possui fins lucrativos. Todos os direitos de uso da música pertencem aos seus respectivos autores.
 
+---
 
 ## 🚀 Funcionalidades
 
